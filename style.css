@@ -1,0 +1,39 @@
+body { 
+    background:#141519;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    vertical-align: middle;
+    height: 100vh;
+}
+h1 {
+    color: #feffff;
+}
+p{
+    color: #8f96a0;
+}
+button{
+    background: #ff7412;
+    color: #fff5cd;
+    border: none;
+    border-radius: 50px;
+    padding: 1.5em 10em;
+}
+.main-container{
+    background: pink;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 20px;
+    border-radius: 25px;
+    background: #373e48;
+
+}
+.star{
+    width: 15px;
+    height: 15px;
+    padding: 15px;
+    border-radius: 50px;
+    background: #262f38;
+}
